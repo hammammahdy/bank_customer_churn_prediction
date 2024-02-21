@@ -22,4 +22,4 @@ https://huggingface.co/spaces/hammammahdy/bank_customers_churn_prediction
 
 ## Contact
 Hammam Mahdy - hammammahdy8@gmail.com
-Project link : https://github.com/hammammahdy/heart_disease_classification_prediction
+Project link : https://github.com/hammammahdy/bank_churn_prediction
